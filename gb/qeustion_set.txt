@@ -1,0 +1,2 @@
+[GB] 1회차:gb/1st.txt
+[GB] 2회차:gb/2st.txt

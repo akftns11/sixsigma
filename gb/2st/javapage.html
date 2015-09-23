@@ -1,0 +1,18 @@
+﻿
+<html>
+<head>
+
+</head>
+<body>
+	<hr/>
+		<h2>WebView와의 통신</h2>
+	<hr/>
+	<br/>
+		받은 메시지 :
+		<p id="textMessageFromApp" style="height:200px; overflow-y:auto;"> 
+	</p>
+	<hr/>
+	<input type="text" id="textMessageToApp"  value="App으로 전송"/>
+	<input type="button" value="Send Message" onclick="sendMessage(document.getElementById('textMessageToApp').value)" style="left:50%;"/>
+</body>
+</html>

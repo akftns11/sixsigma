@@ -1,0 +1,2 @@
+GB(실전문제):gb/question_set.txt
+BB(실전문제):bb/question_set.txt
