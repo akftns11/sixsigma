@@ -1,2 +1,2 @@
-GB(½ÇÀü¹®Á¦):gb/question_set.txt
-BB(½ÇÀü¹®Á¦):bb/question_set.txt
+ï»¿GB(ì‹¤ì „ë¬¸ì œ):gb/question_set.txt
+BB(ì‹¤ì „ë¬¸ì œ):bb/question_set.txt

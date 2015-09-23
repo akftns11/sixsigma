@@ -1,4 +1,4 @@
-bb/2st/6simga_1_1.htm
+﻿bb/2st/6simga_1_1.htm
 bb/2st/6simga_1_2.htm
 bb/2st/6simga_1_3.htm
 bb/2st/javapage.html
