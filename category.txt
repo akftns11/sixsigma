@@ -1,2 +1,2 @@
-﻿GB(실전문제):gb/question_set.txt
-BB(실전문제):bb/question_set.txt
+﻿GB(실전문제):gb/contents_set.txt
+BB(실전문제):bb/contents_set.txt
