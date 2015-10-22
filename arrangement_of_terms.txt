@@ -1,3 +1,0 @@
-﻿arrangement_of_terms/about_sixsigma.htm
-arrangement_of_terms/normal_distribution.htm
-arrangement_of_terms/statistical_hypothesis_test.htm

@@ -1,0 +1,3 @@
+﻿note/about_sixsigma.htm
+note/normal_distribution.htm
+note/statistical_hypothesis_test.htm
