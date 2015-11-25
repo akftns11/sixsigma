@@ -1,0 +1,2 @@
+﻿1회차:practice/1st.txt
+2회차:practice/2st.txt
