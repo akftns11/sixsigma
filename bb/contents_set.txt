@@ -1,2 +1,0 @@
-﻿[BB] 1회차:bb/1st.txt
-[BB] 2회차:bb/2st.txt
